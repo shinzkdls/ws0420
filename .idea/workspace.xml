@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5e0ecc5-7972-4a2d-8eca-28a4e3d374d0" name="Changes" comment="ws0420" />
+    <list default="true" id="a5e0ecc5-7972-4a2d-8eca-28a4e3d374d0" name="Changes" comment="ws0420">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/logback.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logback.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/charts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/charts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/tables.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/tables.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/spring/web04",
+    "last_opened_file_path": "C:/spring/clone0420",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -132,7 +137,7 @@
       <workItem from="1681886245073" duration="209000" />
       <workItem from="1681886587198" duration="1205000" />
       <workItem from="1681950259613" duration="13444000" />
-      <workItem from="1681974253067" duration="4118000" />
+      <workItem from="1681974253067" duration="4848000" />
     </task>
     <task id="LOCAL-00001" summary="ws0420">
       <created>1681977226856</created>
